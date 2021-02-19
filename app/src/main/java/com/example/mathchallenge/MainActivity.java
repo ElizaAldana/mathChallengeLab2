@@ -64,7 +64,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
-    //lo del contador de 30 segundos - No sirve se cierra F
+    //lo del contador de 30 segundos - O sea si sirve el contador y todo bien pero no puedo intentar de nuevo
     public void temp(){
         new Thread(
                 ()->{
